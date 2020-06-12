@@ -1,1 +1,1 @@
-
+The next generation of business cards created with Dart and the Flutter framework by Google. This project allows for the exchange of business profiles digitally freeing your coat pocket from a stack of business cards.
